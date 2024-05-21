@@ -1,4 +1,4 @@
 def say_hello():
-    print('Hello!')
+    print('Good afternoon!')
 
 say_hello()
