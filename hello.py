@@ -1,4 +1,5 @@
 def say_hello():
-    print('Hello!')
+    print(f'Hello, {name}! Have a good day!')
 
+name = input('Your name is:')
 say_hello()
